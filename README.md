@@ -19,7 +19,7 @@ To install **DevBlog**, follow these steps:
 Linux and macOS:
 
 ```
-sudo git clone https://github.com/codewithsadee/devblog-personal-blog-website.git
+sudo git clone https://github.com/Kythonlk/Devblog.git
 ```
 
 Windows:
