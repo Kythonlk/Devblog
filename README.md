@@ -25,12 +25,12 @@ sudo git clone https://github.com/Kythonlk/Devblog.git
 Windows:
 
 ```
-git clone https://github.com/codewithsadee/devblog-personal-blog-website.git
+git clone https://github.com/Kythonlk/Devblog.git
 ```
 
 ## Contact
 
-If you want to contact me you can reach me at [Twitter](https://www.twitter.com/codewithsadee).
+If you want to contact me you can reach me at [Twitter](https://www.twitter.com/kythonlk).
 
 ## License
 <!--- If you're not sure which open license to use see https://choosealicense.com/--->
